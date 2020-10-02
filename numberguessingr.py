@@ -1,3 +1,6 @@
+print('Welcome to Number Guessing Mania - Game in Python')
+
+
 while(True):
     n = int(input('Enter a number :\n'))
 
